@@ -1,0 +1,3 @@
+Urządzenie:   192.168.0.38 rozłączone: 2020-01-15 23:56 
+Urządzenie:   192.168.0.99 rozłączone: 2020-01-15 23:56 
+Urządzenie:  192.168.0.164 rozłączone: 2020-01-15 23:56 
